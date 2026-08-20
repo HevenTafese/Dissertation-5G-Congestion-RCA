@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.env
+venv/
+env/
+agent-env/
+.vscode/
+.DS_Store
+*.bak
+*.tmp
+# large regenerable vector store (kept local; rebuild via knowledge_base/ingest)
+data/kb/chroma_db/
+data/mcp_history.jsonl

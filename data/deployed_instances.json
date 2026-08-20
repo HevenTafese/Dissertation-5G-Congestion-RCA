@@ -1,0 +1,17 @@
+{
+  "AMF": {
+    "instances": 2,
+    "last_action": "horizontal_scale",
+    "last_action_ts": 1787098363.0706365
+  },
+  "gNB": {
+    "instances": 2,
+    "last_action": "horizontal_scale",
+    "last_action_ts": 1787121652.6084604
+  },
+  "UPF": {
+    "instances": 2,
+    "last_action": "horizontal_scale",
+    "last_action_ts": 1787128211.5590446
+  }
+}

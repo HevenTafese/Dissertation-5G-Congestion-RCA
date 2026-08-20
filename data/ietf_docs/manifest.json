@@ -1,0 +1,119 @@
+{
+  "rfc9743": {
+    "status": "verified",
+    "url": "https://www.rfc-editor.org/rfc/rfc9743.txt",
+    "title": "Specifying New Congestion Control Algorithms",
+    "doc_status": "rfc",
+    "also_known_as": "BCP 133",
+    "bytes": 60510,
+    "downloaded_at": 1786268645.7498143
+  },
+  "draft-ietf-ccwg-bbr-06": {
+    "status": "verified",
+    "url": "https://www.ietf.org/archive/id/draft-ietf-ccwg-bbr-06.txt",
+    "title": "BBR Congestion Control",
+    "doc_status": "draft",
+    "also_known_as": "",
+    "bytes": 216060,
+    "downloaded_at": 1786268645.879465
+  },
+  "draft-ietf-ccwg-rfc8298bis-screamv2-01": {
+    "status": "verified",
+    "url": "https://www.ietf.org/archive/id/draft-ietf-ccwg-rfc8298bis-screamv2-01.txt",
+    "title": "Self-Clocked Rate Adaptation for Multimedia",
+    "doc_status": "draft",
+    "also_known_as": "",
+    "bytes": 100016,
+    "downloaded_at": 1786268645.9701452
+  },
+  "draft-ietf-ccwg-ratelimited-increase-08": {
+    "status": "verified",
+    "url": "https://www.ietf.org/archive/id/draft-ietf-ccwg-ratelimited-increase-08.txt",
+    "title": "Increase of the Congestion Window when the Sender Is Rate-Limited",
+    "doc_status": "draft",
+    "also_known_as": "",
+    "bytes": 33863,
+    "downloaded_at": 1786268646.1050322
+  },
+  "draft-ageneau-ccwg-ndtc-02": {
+    "status": "verified",
+    "url": "https://www.ietf.org/archive/id/draft-ageneau-ccwg-ndtc-02.txt",
+    "title": "Network Delivery Time Control",
+    "doc_status": "draft",
+    "also_known_as": "",
+    "bytes": 55024,
+    "downloaded_at": 1786268646.2104416
+  },
+  "draft-chung-ccwg-search-09": {
+    "status": "verified",
+    "url": "https://www.ietf.org/archive/id/draft-chung-ccwg-search-09.txt",
+    "title": "SEARCH -- a New Slow Start Algorithm for TCP and QUIC",
+    "doc_status": "draft",
+    "also_known_as": "",
+    "bytes": 49168,
+    "downloaded_at": 1786268646.2909846
+  },
+  "draft-huitema-ccwg-c4-design-04": {
+    "status": "verified",
+    "url": "https://www.ietf.org/archive/id/draft-huitema-ccwg-c4-design-04.txt",
+    "title": "Design of Christian's Congestion Control Code (C4)",
+    "doc_status": "draft",
+    "also_known_as": "",
+    "bytes": 87837,
+    "downloaded_at": 1786268646.3921552
+  },
+  "draft-huitema-ccwg-c4-spec-04": {
+    "status": "verified",
+    "url": "https://www.ietf.org/archive/id/draft-huitema-ccwg-c4-spec-04.txt",
+    "title": "Specification of Christian's Congestion Control Code (C4)",
+    "doc_status": "draft",
+    "also_known_as": "",
+    "bytes": 43376,
+    "downloaded_at": 1786268646.483289
+  },
+  "draft-huitema-ccwg-c4-test-04": {
+    "status": "verified",
+    "url": "https://www.ietf.org/archive/id/draft-huitema-ccwg-c4-test-04.txt",
+    "title": "Testing of Christian's Congestion Control Code (C4)",
+    "doc_status": "draft",
+    "also_known_as": "",
+    "bytes": 47475,
+    "downloaded_at": 1786268646.569464
+  },
+  "draft-kazuho-ccwg-rapid-start-02": {
+    "status": "verified",
+    "url": "https://www.ietf.org/archive/id/draft-kazuho-ccwg-rapid-start-02.txt",
+    "title": "Rapid Startup of Congestion Control",
+    "doc_status": "draft",
+    "also_known_as": "",
+    "bytes": 28150,
+    "downloaded_at": 1786268646.671566
+  },
+  "draft-lai-ccwg-lsncc-01": {
+    "status": "verified",
+    "url": "https://www.ietf.org/archive/id/draft-lai-ccwg-lsncc-01.txt",
+    "title": "Analysis for the Adverse Effects of LEO Mobility on Internet Congestion Control",
+    "doc_status": "draft",
+    "also_known_as": "",
+    "bytes": 40908,
+    "downloaded_at": 1786268646.764866
+  },
+  "draft-tian-ccwg-ibcs-datapath-processing-00": {
+    "status": "verified",
+    "url": "https://www.ietf.org/archive/id/draft-tian-ccwg-ibcs-datapath-processing-00.txt",
+    "title": "Datapath Processing Architecture for In-Band Congestion Signaling (IBCS)",
+    "doc_status": "draft",
+    "also_known_as": "",
+    "bytes": 20817,
+    "downloaded_at": 1786268646.8437264
+  },
+  "draft-tian-ccwg-long-haul-cnp-00": {
+    "status": "verified",
+    "url": "https://www.ietf.org/archive/id/draft-tian-ccwg-long-haul-cnp-00.txt",
+    "title": "Multi-level Congestion Response Framework with Long-haul Congestion Notification for DCI Networks",
+    "doc_status": "draft",
+    "also_known_as": "",
+    "bytes": 61769,
+    "downloaded_at": 1786268646.9379678
+  }
+}
