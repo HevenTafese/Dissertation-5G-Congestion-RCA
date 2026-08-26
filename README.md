@@ -5,9 +5,62 @@ An agentic pipeline that attributes 5G core congestion to its responsible networ
 *Module CSI_7_PRO, Department of Computer Science and Informatics, London South Bank University*<br>
 
 Supervised by Professor Anastasios Dagiuklas <br>
-
-
 *Student: [Heven Tafese](https://github.com/HevenTafese)*<br>
+## Repository structure
+
+* `congestion_fusion.py`
+* `agents/`
+  * `alert/alert_agent.py`
+  * `configuration/configuration_agent.py`
+  * `performance/performance_agent.py`
+* `data/`
+  * `captures/`
+  * `chroma_db/`
+  * `ietf_docs/`
+  * `kb/`
+  * `deployed_instances.json`
+  * `kb.sqlite`
+  * `mitigation_full_history.jsonl`
+  * `mitigation_history.jsonl`
+* `explanation/`
+  * `data/`
+  * `explanation_agent.py`
+* `generator/`
+  * `gnb_downlink/`
+  * `e2e_cp_npdu.sh`
+  * `n2_ramp.sh`
+  * `n6_iperf_dyn.sh`
+  * `run_n3_vm2.sh`
+* `knowledge_base/`
+  * `ingest/`
+  * `scheduler/`
+* `mcp_board/mcp_board.py`
+* `mitigation/mit.py`
+* `mnf/`
+  * `gnb_downlink/`
+  * `e2e_mnf.py`
+  * `gnb_mnf.py`
+  * `n2_mnf.py`
+  * `n4_mnf.py`
+  * `n6_mnf.py`
+  * `run_n3_vm1.sh`
+  * `tshark_mnf.py`
+* `rca/`
+  * `data/`
+  * `agentic_rca.py`
+  * `run_rca_a2a.py`
+  * `rca_pipeline/agents/shared/`
+    * `rca_core.py`
+    * `schema_discovery.py`
+    * `thresholds.py`
+* `runner/`
+* `shared/`
+* `verification/`
+* `migrate_baselines.py`
+* `README.md`
+* `requirements.txt`
+
+
 *Submitted August 2026*
 
 ## Table of contents
