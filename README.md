@@ -2,10 +2,7 @@
 
 An agentic pipeline that attributes 5G core congestion to its responsible network function and recommends a mitigation, with an independent verification stage checking the attribution before it is used.
 
-*Module CSI_7_PRO, Department of Computer Science and Informatics, London South Bank University*<br>
-
-Supervised by Professor Anastasios Dagiuklas <br>
-*Student: [Heven Tafese](https://github.com/HevenTafese)*<br>
+*
 ## Repository structure
 
 * `congestion_fusion.py`
